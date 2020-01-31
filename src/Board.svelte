@@ -36,9 +36,10 @@
         display: flex;
         flex-wrap: wrap;
         width: 500px;
+        margin: 1em;
     }
     h3 {
-        color: red;
+        color: darkslategrey;
     }
 </style>
 

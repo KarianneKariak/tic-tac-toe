@@ -8,16 +8,18 @@
         flex: 1 0 25%;
         width: 140px;
         height: 140px;
-        background-color: whitesmoke;
-        border: 2px solid black;
+        background-color: lightgoldenrodyellow;
+        border: none;
+        border-radius: 0.5em;
         margin: 5px;
         padding: 5px;
-        font-size: 20px;
         text-align: center;
+        font-size: 40px;
+        color: lightsalmon;
     }
 
     .square:hover {
-        border: 2px solid red;
+        background: lightsalmon;
     }
 </style>
 
